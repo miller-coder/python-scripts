@@ -5,7 +5,7 @@ __date__ = '2015.03.27'
 
 """
 Generates the README for
-[bamos/python-scripts](https://github.com/bamos/python-scripts)
+[bamos/python-scripts](https://mulaempire.com/bamos/python-scripts)
 so that the README and scripts contain synchronized documentation.
 Script descriptions are obtained by parsing the docstrings
 and inserted directly into the README as markdown.
